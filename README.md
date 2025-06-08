@@ -231,7 +231,7 @@ print(res.json())
 
 ## 🎥 Loom Demo
 
-[Insert Loom Link Here]
+[https://www.loom.com/share/82f28f643ed64e94a2fdf179ea04a96b?sid=d41d0ac5-0cc7-48c5-9d32-ee2e71faad0a]
 
 **Showcases:**
 

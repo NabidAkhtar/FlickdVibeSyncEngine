@@ -191,16 +191,33 @@ print(res.json())
 ## 📁 Project Structure
 
 ```
-flickd3/
-├── src/
-│   ├── models/             # detection.py, matching.py
-│   ├── processing/         # vibe.py
-├── outputs/                # CLI JSON outputs
-├── streamlit_app.py        # Streamlit UI
-├── api.py                  # FastAPI endpoint
-├── cli.py                  # CLI interface
+├── data
+    ├── videos
+        ├── 2025-05-22_08-25-12_UTC.jpg
+        ├── 2025-05-22_08-25-12_UTC.mp4
+         ...
+    ├── images.csv
+    ├── product_data.xlsx
+    ├── vibes_list.json
+├── outputs
+    ├── 2025-05-22_08-25-12_UTC.json
+    ├── 2025-05-27_13-46-16_UTC.json
+    ├── 2025-05-28_13-40-09_UTC.json
+    ├── 2025-05-28_13-42-32_UTC.json
+    ├── 2025-05-31_14-01-37_UTC.json
+    ├── 2025-06-02_11-31-19_UTC.json
+├── src
+    ├── models
+        ├── detection.py
+        ├── matching.py
+    ├── processing
+        ├── frames.py
+        ├── vibe.py
+    ├── cli.py
+    ├── __init__.py
+├── api.py
 ├── requirements.txt
-├── README.md
+├── streamlit.py
 ```
 
 ---

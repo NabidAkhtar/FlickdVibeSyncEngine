@@ -1,0 +1,337 @@
+{
+  "video": "C:\\Users\\ASUS\\OneDrive\\Desktop\\flickd2\\flickd3\\data\\videos\\2025-05-27_13-46-16_UTC.mp4",
+  "frames": [
+    {
+      "frame": 0,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.5829561352729797,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8018311262130737,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.7036352157592773,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7802145481109619,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.7773001790046692,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8106215000152588,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.8684764504432678,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7658377885818481,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.8420060873031616,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7751620411872864,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.7034623026847839,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.7504736185073853,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8085924386978149,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.8073327541351318,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.7779288291931152,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7783308029174805,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 305,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.9126320481300354,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7804223895072937,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 310,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8369324803352356,
+          "match": {
+            "type": "similar",
+            "product_id": "97544",
+            "similarity": 0.7577300071716309,
+            "product_type": "Tshirt",
+            "color": "pink"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.9099534749984741,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7879372835159302,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 315,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.9245033860206604,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.783879280090332,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 320,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.9071899056434631,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.7798550724983215,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 325,
+      "detections": [
+        {
+          "label": "skirt",
+          "confidence": 0.925809383392334,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.7913943529129028,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 330,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8727207779884338,
+          "match": {
+            "type": "similar",
+            "product_id": "42037",
+            "similarity": 0.7632076144218445,
+            "product_type": "Top",
+            "color": "beige"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.941109299659729,
+          "match": {
+            "type": "similar",
+            "product_id": "17146",
+            "similarity": 0.7827871441841125,
+            "product_type": "Dress",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 335,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9082739949226379,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.8069065809249878,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.912136435508728,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8758222460746765,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 340,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.804352879524231,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.817215085029602,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.7908710837364197,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8708636164665222,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 345,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8012697696685791,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8288446068763733,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.7500692009925842,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8661353588104248,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    }
+  ],
+  "vibes": [
+    "Coquette",
+    "Clean Girl",
+    "Party Glam"
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "video": "C:\\Users\\ASUS\\OneDrive\\Desktop\\flickd2\\flickd3\\data\\videos\\2025-05-31_14-01-37_UTC.mp4",
+  "frames": [
+    {
+      "frame": 0,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.996961772441864,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8039045333862305,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9963477253913879,
+          "match": {
+            "type": "similar",
+            "product_id": "16915",
+            "similarity": 0.7795475721359253,
+            "product_type": "Dress",
+            "color": "pink"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9894473552703857,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.825660228729248,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.5695523619651794,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.8443807363510132,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9752165675163269,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.837174654006958,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.5566297769546509,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8395068645477295,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9772501587867737,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8231287598609924,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.6222456097602844,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.832741916179657,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9331430792808533,
+          "match": {
+            "type": "similar",
+            "product_id": "16275",
+            "similarity": 0.8539927005767822,
+            "product_type": "Shorts",
+            "color": "blue"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9325741529464722,
+          "match": {
+            "type": "similar",
+            "product_id": "16275",
+            "similarity": 0.8503429889678955,
+            "product_type": "Shorts",
+            "color": "blue"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9014378786087036,
+          "match": {
+            "type": "similar",
+            "product_id": "16768",
+            "similarity": 0.8395768404006958,
+            "product_type": "Top",
+            "color": "purple"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8421759605407715,
+          "match": {
+            "type": "similar",
+            "product_id": "16275",
+            "similarity": 0.8801195621490479,
+            "product_type": "Shorts",
+            "color": "blue"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9013428688049316,
+          "match": {
+            "type": "similar",
+            "product_id": "16278",
+            "similarity": 0.8655858039855957,
+            "product_type": "Co-Ord",
+            "color": "blue"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9465007185935974,
+          "match": {
+            "type": "similar",
+            "product_id": "15314",
+            "similarity": 0.8013219833374023,
+            "product_type": "Co-Ord",
+            "color": "green"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9951732754707336,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.7668756246566772,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9954361319541931,
+          "match": {
+            "type": "similar",
+            "product_id": "17085",
+            "similarity": 0.8023229837417603,
+            "product_type": "Top",
+            "color": "wine red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9961087107658386,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8447544574737549,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9726688265800476,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7718465328216553,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.8578181266784668,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8146514296531677,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9646838307380676,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.7589077949523926,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.9041567444801331,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8146247863769531,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9514039158821106,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7770063877105713,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.8934258818626404,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8339307904243469,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9718430638313293,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7563977241516113,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.8611613512039185,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.80141282081604,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9489821195602417,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7987645864486694,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.7603099346160889,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7946107387542725,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9718083739280701,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.7830730676651001,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.7368007302284241,
+          "match": {
+            "type": "similar",
+            "product_id": "15138",
+            "similarity": 0.8208507299423218,
+            "product_type": "Co-Ord",
+            "color": "red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9580969214439392,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.787456750869751,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.8686733841896057,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8332266807556152,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9550970792770386,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8189995288848877,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        },
+        {
+          "label": "skirt",
+          "confidence": 0.8368207812309265,
+          "match": {
+            "type": "similar",
+            "product_id": "15409",
+            "similarity": 0.8321621417999268,
+            "product_type": "Trouser",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.7685502767562866,
+          "match": {
+            "type": "similar",
+            "product_id": "118459",
+            "similarity": 0.8377010822296143,
+            "product_type": "Dress",
+            "color": "off white"
+          }
+        },
+        {
+          "label": "dress",
+          "confidence": 0.7076864242553711,
+          "match": {
+            "type": "similar",
+            "product_id": "17085",
+            "similarity": 0.8394648432731628,
+            "product_type": "Top",
+            "color": "wine red"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9110918045043945,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8443417549133301,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9872129559516907,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.8555171489715576,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9842836856842041,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.8625290393829346,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9822121262550354,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.8540473580360413,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 185,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9646754264831543,
+          "match": {
+            "type": "similar",
+            "product_id": "42114",
+            "similarity": 0.828331470489502,
+            "product_type": "Shorts",
+            "color": "white"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 190,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9723458886146545,
+          "match": {
+            "type": "similar",
+            "product_id": "42114",
+            "similarity": 0.8273886442184448,
+            "product_type": "Shorts",
+            "color": "white"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 195,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8952947854995728,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8331133127212524,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 200,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9299144744873047,
+          "match": {
+            "type": "similar",
+            "product_id": "42108",
+            "similarity": 0.8414191603660583,
+            "product_type": "Top",
+            "color": "teal"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 205,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.8736880421638489,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.8121609091758728,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 210,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9370747804641724,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.8184371590614319,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 215,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9536139369010925,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.7983502745628357,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 220,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9756683111190796,
+          "match": {
+            "type": "similar",
+            "product_id": "42118",
+            "similarity": 0.7647120952606201,
+            "product_type": "Dress",
+            "color": "black"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 225,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9875675439834595,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.7894300818443298,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 230,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9961571097373962,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.7950009107589722,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 235,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9962263107299805,
+          "match": {
+            "type": "similar",
+            "product_id": "42067",
+            "similarity": 0.7823863625526428,
+            "product_type": "Skirt",
+            "color": "maroon"
+          }
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "detections": [
+        {
+          "label": "dress",
+          "confidence": 0.9981840252876282,
+          "match": {
+            "type": "similar",
+            "product_id": "42114",
+            "similarity": 0.7551679611206055,
+            "product_type": "Shorts",
+            "color": "white"
+          }
+        }
+      ]
+    }
+  ],
+  "vibes": [
+    "Party Glam",
+    "Streetcore",
+    "Coquette"
+  ]
+}

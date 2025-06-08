@@ -1,6 +1,6 @@
 # Flickd Vibe Sync Engine
 
-An Smart Tagging & Vibe Classification Engine system built during the **Flickd AI Hackathon (June 2025)** to enable scroll-native, video-first, vibe-led shopping for Gen Z. It detects fashion items in short videos, matches them with a product catalog, and classifies the video's "vibe" (e.g., *Coquette*, *Clean Girl*, *Cottagecore*).
+An Smart Tagging & Vibe Classification Engine system built during the **Flickd AI Hackathon (June 2025)** to enable scroll-native, video-first, vibe-led shopping for Gen Z. It detects fashion items in short videos, matches them with a product catalog, and classifies the video's "vibe" (e.g., _Coquette_, _Clean Girl_, _Cottagecore_).
 
 ## 🚀 Overview
 
@@ -38,16 +38,16 @@ It outputs structured JSON responses and offers 3 interaction modes:
 
 ## 🧰 Tech Stack
 
-| Area | Tools |
-|------|-------|
-| Programming | Python 3.11 |
-| CV | OpenCV, YOLOv8 (Ultralytics) |
-| Embeddings | OpenAI CLIP |
-| Search | FAISS |
-| Audio | MoviePy, Whisper |
-| NLP | spaCy, HuggingFace |
-| Interfaces | CLI, Streamlit, FastAPI |
-| Others | PyTorch, NumPy, FFmpeg |
+| Area        | Tools                        |
+| ----------- | ---------------------------- |
+| Programming | Python 3.11                  |
+| CV          | OpenCV, YOLOv8 (Ultralytics) |
+| Embeddings  | OpenAI CLIP                  |
+| Search      | FAISS                        |
+| Audio       | MoviePy, Whisper             |
+| NLP         | spaCy, HuggingFace           |
+| Interfaces  | CLI, Streamlit, FastAPI      |
+| Others      | PyTorch, NumPy, FFmpeg       |
 
 ---
 
@@ -99,7 +99,7 @@ It outputs structured JSON responses and offers 3 interaction modes:
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/NabidAkhtar/FlickdVibeSyncEngine
+git clone https://github.com/NabidAkhtar/FlickdVibeSyncEngine.git
 cd FlickdVibeSyncEngine
 
 # Create virtual env
@@ -264,11 +264,11 @@ print(res.json())
 
 ## 🧯 Troubleshooting
 
-| Issue | Solution |
-|-------|----------|
-| `ModuleNotFoundError: 'clip'` | `pip install git+https://github.com/openai/CLIP.git` |
-| PyTorch install fails | `pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu` |
-| Whisper errors | Ensure FFmpeg is installed and added to PATH |
+| Issue                         | Solution                                                                         |
+| ----------------------------- | -------------------------------------------------------------------------------- |
+| `ModuleNotFoundError: 'clip'` | `pip install git+https://github.com/openai/CLIP.git`                             |
+| PyTorch install fails         | `pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu` |
+| Whisper errors                | Ensure FFmpeg is installed and added to PATH                                     |
 
 ---
 

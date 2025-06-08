@@ -23,7 +23,7 @@ It outputs structured JSON responses and offers 3 interaction modes:
 ## 🎯 Features
 
 - **Frame Extraction**: OpenCV-based with FPS-adjusted sampling (every 0.2 seconds).
-- **Object Detection**: YOLOv8 to detect fashion categories.
+- **Object Detection**: YOLOS-fashionpedia
 - **Product Matching**: CLIP + FAISS with match categories:
   - `Exact`: > 0.9
   - `Similar`: 0.75–0.9

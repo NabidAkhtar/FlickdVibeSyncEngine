@@ -286,7 +286,7 @@ print(res.json())
 **Nabid Akhtar**
 
 - GitHub: [NabidAkhtar](https://github.com/NabidAkhtar)
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nabid-akhtar-059a981bb?)
 
 ---
 

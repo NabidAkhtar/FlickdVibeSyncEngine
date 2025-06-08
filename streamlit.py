@@ -471,7 +471,7 @@ def main():
     # Footer with a Fun Vibe
     st.markdown("""
         <div style="text-align: center; margin-top: 50px; color: #dfe6e9;">
-            <p>Built with 🔥 by xAI | Powered by Streamlit 🚀</p>
+            <p>Built with ❤️ for FLICKD AI HACKATHON <p>
         </div>
     """, unsafe_allow_html=True)
 
